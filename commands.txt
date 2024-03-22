@@ -1,0 +1,6 @@
+npm init
+npm i --save-dev typescript
+npm i --save-dev react
+npm i --save-dev webpack
+npm i --save-dev webpack-cli
+npm i --save-dev ts-loader
